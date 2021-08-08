@@ -11,7 +11,7 @@ export const Wrapper = styled.div`
 
 export const Card = styled.div`
   background: #fff;
-  width: 550px;
+  width: 70%;
   border-radius: 8px;
   padding: 20px;
   margin-top: 15px;
@@ -30,6 +30,7 @@ export const Card = styled.div`
 `;
 
 export const Templates = styled.div`
+  
   width: 100%;
   height: 90px;
   background: #cdc7c7;
