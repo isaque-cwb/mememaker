@@ -1,3 +1,18 @@
+# Create-meme app de cração de meme's feito em JavaScript conectado a uma API externa
+
+### Primeira tela... escolha um meme a ser criado...
+
+![image](https://user-images.githubusercontent.com/57151930/219872579-56bc8d91-8394-454e-83d5-03b04f9cc078.png)
+
+### Adicione os textos de sua preferência...
+
+![image](https://user-images.githubusercontent.com/57151930/219872620-81db26d8-7f41-4fa1-9bb5-0401b172ff0c.png)
+
+### pronto seu meme foi criado ... 
+
+![image](https://user-images.githubusercontent.com/57151930/219872660-d9663126-c195-451b-bb37-cd940d05f7b0.png)
+
+----------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
